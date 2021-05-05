@@ -1,5 +1,8 @@
 # CE888
 
+A Repository for Module CE888 - Data Science and Decision Making
+
+
 
 The code file submitted is in .py format converted from Jupyter notebook
 The data used is from this website :   https://data.police.uk/data/
